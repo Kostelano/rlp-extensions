@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3" type="file" method="upgrade">
+	<name>Русская локализация Akeeba Engage</name>
+	<tag>ru-RU</tag>
+	<version>1.0.0b2</version>
+	<creationDate>14/05/2020</creationDate>
+	<author>Konstantin Kolos</author>
+	<authorEmail>admin@jnotes.net.ua</authorEmail>
+	<authorUrl>https://jnotes.net.ua</authorUrl>
+	<copyright>Copyright (C) 2020 Jnotes.net.ua</copyright>
+	<license>GNU General Public License v2 or later</license>
+	<description>
+	<![CDATA[
+		<div class='alert alert-info' style='margin: 0 0 20px; font-weight: 400'>
+		<h3 style='font-weight: 400'>Русская локализация Akeeba Engage 1.0.0b2</h3>
+		<p>Локализация расширения поддерживается ресурсом <a style='text-decoration: underline' href='https://jnotes.net.ua' target='_blank'>Jnotes.net.ua</a>.</p>
+		<p>Для получения информации о новых релизах или обновлениях локализаций подпишитесь на <a style='text-decoration: underline' href='https://jnotes.net.ua/newsletter' target='_blank'>новостную рассылку</a>.</p>
+		<p>Сообщить о найденных ошибках или предложениях можно на странице <a style='text-decoration: underline' href='https://github.com/kostelano/rlp-extensions' target='_blank'>GitHub</a> или с помощью <a style='text-decoration: underline' href='https://jnotes.net.ua/contacts' target='_blank'>формы обратной связи</a>.</p>
+		</div>
+	]]>
+	</description>
+
+	<fileset>
+		<files folder="admin" target="administrator/language/ru-RU">
+			<filename>ru-RU.com_engage.ini</filename>
+			<filename>ru-RU.com_engage.sys.ini</filename>
+			<filename>ru-RU.plg_actionlog_engage.ini</filename>
+			<filename>ru-RU.plg_actionlog_engage.sys.ini</filename>
+			<filename>ru-RU.plg_content_engage.ini</filename>
+			<filename>ru-RU.plg_content_engage.sys.ini</filename>
+			<filename>ru-RU.plg_datacompliance_engage.ini</filename>
+			<filename>ru-RU.plg_datacompliance_engage.sys.ini</filename>
+			<filename>ru-RU.plg_engage_akismet.ini</filename>
+			<filename>ru-RU.plg_engage_akismet.sys.ini</filename>
+			<filename>ru-RU.plg_engage_email.ini</filename>
+			<filename>ru-RU.plg_engage_email.sys.ini</filename>
+			<filename>ru-RU.plg_engage_gravatar.ini</filename>
+			<filename>ru-RU.plg_engage_gravatar.sys.ini</filename>
+			<filename>ru-RU.plg_privacy_engage.ini</filename>
+			<filename>ru-RU.plg_privacy_engage.sys.ini</filename>
+			<filename>ru-RU.plg_system_engagecache.ini</filename>
+			<filename>ru-RU.plg_system_engagecache.sys.ini</filename>
+			<filename>ru-RU.plg_user_engage.ini</filename>
+			<filename>ru-RU.plg_user_engage.sys.ini</filename>
+			<filename>ru-RU.lib_fof30.ini</filename>
+		</files>
+
+		<files folder="site" target="language/ru-RU">
+			<filename>ru-RU.com_engage.ini</filename>
+			<filename>ru-RU.lib_fof30.ini</filename>
+		</files>
+	</fileset>
+</extension>
