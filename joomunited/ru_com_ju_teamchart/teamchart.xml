@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3" type="file" method="upgrade">
+	<name>Русская локализация TeamChart</name>
+	<tag>ru-RU</tag>
+	<version>1.2.4</version>
+	<creationDate>07/08/2019</creationDate>
+	<author>Konstantin Kolos</author>
+	<authorEmail>admin@jnotes.net.ua</authorEmail>
+	<authorUrl>https://jnotes.net.ua</authorUrl>
+	<copyright>Copyright (C) 2020 Jnotes.net.ua</copyright>
+	<license>GNU General Public License v2 or later</license>
+	<description>
+	<![CDATA[
+		<div class='alert alert-info' style='margin: 0 0 20px; font-weight: 400'>
+		<h3 style='font-weight: 400'>Русская локализация TeamChart 1.2.4</h3>
+		<p>Локализация расширения поддерживается ресурсом <a style='text-decoration: underline' href='https://jnotes.net.ua' target='_blank'>Jnotes.net.ua</a>.</p>
+		<p>Для получения информации о новых релизах или обновлениях локализаций подпишитесь на <a style='text-decoration: underline' href='https://jnotes.net.ua/newsletter' target='_blank'>новостную рассылку</a>.</p>
+		<p>Сообщить о найденных ошибках или предложениях можно на странице <a style='text-decoration: underline' href='https://github.com/kostelano/rlp-extensions' target='_blank'>GitHub</a> или с помощью <a style='text-decoration: underline' href='https://jnotes.net.ua/contacts' target='_blank'>формы обратной связи</a>.</p>
+		</div>
+	]]>
+	</description>
+
+	<fileset>
+		<files folder="admin" target="administrator/components/com_teamchart/language/ru-RU">
+			<filename>ru-RU.com_teamchart.ini</filename>
+			<filename>ru-RU.com_teamchart.sys.ini</filename>
+		</files>
+	</fileset>
+</extension>
