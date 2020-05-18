@@ -2,6 +2,7 @@
 
 ### Aimy Extensions
 - [Aimy Speed Optimization PRO](https://jnotes.net.ua/files/plugins/ru-aimyso-pro)
+- [Aimy Video Embedder](https://jnotes.net.ua/files/plugins/ru-aimyve)
 
 ### Akeeba
 - [Akeeba Engage](https://jnotes.net.ua/files/components/ru-akeeba-engage)
