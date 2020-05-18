@@ -1,5 +1,8 @@
 ## Русская локализация расширений Joomla (RLP)
 
+### Aimy Extensions
+- [Aimy Speed Optimization PRO](https://jnotes.net.ua/files/plugins/ru-aimyso-pro)
+
 ### Akeeba
 - [Akeeba Engage](https://jnotes.net.ua/files/components/ru-akeeba-engage)
 - [Akeeba LoginGuard](https://jnotes.net.ua/files/components/ru-akeeba-loginguard)
