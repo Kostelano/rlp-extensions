@@ -15,6 +15,7 @@
 - [BT Google Maps](https://jnotes.net.ua/files/modules/ru-bt-google-maps)
 
 ### DJ-Extensions
+- [DJ-Flyer](https://jnotes.net.ua/files/components/ru-dj-flyer)
 - [DJ-ImageSlider](https://jnotes.net.ua/files/components/ru-dj-imageslider)
 
 ### JCH-Optimize
