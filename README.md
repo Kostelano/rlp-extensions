@@ -14,6 +14,9 @@
 ### Bowthemes
 - [BT Google Maps](https://jnotes.net.ua/files/modules/ru-bt-google-maps)
 
+### BrianTeeman
+- [Task List](https://jnotes.net.ua/files/modules/ru-br-tasklist)
+
 ### DJ-Extensions
 - [DJ-Flyer](https://jnotes.net.ua/files/components/ru-dj-flyer)
 - [DJ-ImageSlider](https://jnotes.net.ua/files/components/ru-dj-imageslider)

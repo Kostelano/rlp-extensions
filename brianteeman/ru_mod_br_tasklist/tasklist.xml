@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="file" method="upgrade">
+	<name>Русская локализация Task List</name>
+	<tag>ru-RU</tag>
+	<version>1.0.0</version>
+	<creationDate>18/11/2022</creationDate>
+	<author>Konstantin Kolos</author>
+	<authorEmail>admin@jnotes.net.ua</authorEmail>
+	<authorUrl>https://jnotes.net.ua</authorUrl>
+	<copyright>Copyright (C) 2022 Jnotes.net.ua</copyright>
+	<license>GNU General Public License v2 or later</license>
+	<description>
+	<![CDATA[
+		<div style='font-weight: 400'>
+		<h3 style='font-weight: 400'>Русская локализация Task List 1.0.0</h3>
+		<div>Локализация расширения поддерживается ресурсом <a href='https://jnotes.net.ua' target='_blank'>Jnotes.net.ua</a>.<br>
+		Для получения информации о новых релизах или обновлениях локализаций подпишитесь на <a href='https://jnotes.net.ua/newsletter' target='_blank'>новостную рассылку</a>.<br>
+		Сообщить о найденных ошибках или предложениях можно на странице <a href='https://github.com/kostelano/rlp-extensions' target='_blank'>GitHub</a> или с помощью <a href='https://jnotes.net.ua/contacts' target='_blank'>формы обратной связи</a>.</div>
+		</div>
+	]]>
+	</description>
+
+	<fileset>
+		<files folder="admin" target="administrator/language/ru-RU">
+			<filename>mod_tasklist.ini</filename>
+			<filename>mod_tasklist.sys.ini</filename>
+		</files>
+	</fileset>
+</extension>
